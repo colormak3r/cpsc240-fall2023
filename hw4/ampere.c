@@ -1,15 +1,15 @@
-// Program name: "Rotate Array". This program rotate an array left using modular
-// components that manage, input, output rotate, and sum the array.
+// Program name: "Work Calculator". This program calculate the work performed 
+// based on volts, resistance and time with input validation for float input
 // Copyright (C) <2023>  <Dang Khoa Nguyen>
 
-// This file is part of the software program "Rotate Array".
+// This file is part of the software program "Work Calculator".
 
-// Rotate Array is free software: you can redistribute it and/or modify
+// Work Calculator is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
 // the Free Software Foundation, either version 3 of the License, or
 // (at your option) any later version.
 
-// Rotate Array is distributed in the hope that it will be useful,
+// Work Calculator is distributed in the hope that it will be useful,
 // but WITHOUT ANY WARRANTY; without even the implied warranty of
 // MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 // GNU General Public License for more details.
